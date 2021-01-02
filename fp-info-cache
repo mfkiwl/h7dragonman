@@ -1,78 +1,106 @@
-17116072348412
-Connector_Card
-CF-Card_3M_N7E50-7516PK-20-WF
-Compact Flash Card connector (https://multimedia.3m.com/mws/media/22365O/3mtm-cf-card-header-compactflashtm-type-i-sm-ts0662.pdf)
-connector cf
-0
-54
-50
-Connector_Card
-microSD_HC_Hirose_DM3AT-SF-PEJM5
-Micro SD, SMD, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3AT-SF-PEJM5/category/Drawing%20(2D)/doc_file_id/44099/?file_category_id=6&item_id=06090031000&is_series=)
-Micro SD
-0
-14
-11
-Connector_Card
-microSD_HC_Hirose_DM3BT-DSF-PEJS
-Micro SD, SMD, reverse on-board, right-angle, push-pull (https://www.hirose.com/product/en/download_file/key_name/DM3BT-DSF-PEJS/category/Drawing%20(2D)/doc_file_id/44097/?file_category_id=6&item_id=06090029900&is_series=)
-Micro SD
-0
-16
-11
-Connector_Card
-microSD_HC_Hirose_DM3D-SF
-Micro SD, SMD, right-angle, push-pull (https://media.digikey.com/PDF/Data%20Sheets/Hirose%20PDFs/DM3D-SF.pdf)
-Micro SD
-0
-14
-11
-Connector_Card
-microSD_HC_Wuerth_693072010801
-http://katalog.we-online.de/em/datasheet/693072010801.pdf
-Micro SD Wuerth Wurth Würth
-0
-12
-9
-Connector_Card
-microSIM_JAE_SF53S006VCBR2000
-https://www.jae.com/z-en/pdf_download_exec.cfm?param=SJ115712.pdf
-microSIM GSM Card
-0
-14
-7
-Connector_Card
-SD_Kyocera_145638009211859+
-SD Card Connector, Normal Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
-sd card smt
-0
-13
-12
-Connector_Card
-SD_Kyocera_145638009511859+
-SD Card Connector, Normal Type, Outer Tail, Spring Eject Type (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
-sd card smt
-0
-13
-12
-Connector_Card
-SD_Kyocera_145638109211859+
-SD Card Connector, Reverse Type, Outer Tail, Without Ejector (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
-sd card smt
-0
-13
-12
-Connector_Card
-SD_Kyocera_145638109511859+
-SD Card Connector, Reverse Type, Outer Tail, Spring Eject Type (https://global.kyocera.com/prdct/electro/product/pdf/5638.pdf)
-sd card smt
-0
-13
-12
-Connector_Card
-SD_TE_2041021
-SD card connector, top mount, SMT (http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2041021%7FB%7Fpdf%7FEnglish%7FENG_CD_2041021_B_C_2041021_B.pdf%7F2041021-4)
-sd card
+23764657985112
+footprints
+105162-0001
+<b>105162-0001</b><br>
+
 0
 15
-12
+15
+footprints
+LOGO-CIAA
+
+
+0
+0
+0
+footprints
+Microchip-C04-143B-S4QFN-0-0-IPC_A
+
+
+0
+25
+25
+footprints
+Microchip-C04-143B-S4QFN-0-0-IPC_B
+
+
+0
+25
+25
+footprints
+Microchip-C04-143B-S4QFN-0-0-IPC_C
+
+
+0
+25
+25
+footprints
+Microchip-C04-143B-S4QFN-0-0-MFG
+
+
+0
+34
+26
+footprints
+S25FL127SABMFI101
+
+
+0
+8
+8
+footprints
+TPS5403DR
+
+
+0
+8
+8
+footprints
+USB_A_Female_AU-Y1006-3
+
+
+0
+13
+10
+footprints
+USB_A_Female_E8199-001-01
+file:///C:/Users/chad_rosencrans/Downloads/USB_A_Female_E8199-001-01.pdf
+
+0
+11
+10
+footprints
+USB_A_Female_UE27AC54100
+
+
+0
+6
+5
+footprints
+USB_A_Female_Vertical_RA_73725-0110BLF
+http://portal.fciconnect.com/Comergent//fci/drawing/73725.pdf
+
+0
+8
+5
+footprints
+USB_Micro_B_Female_10118194-0001LF
+http://portal.fciconnect.com/Comergent//fci/drawing/10118194.pdf
+
+0
+9
+6
+footprints
+ciaa_7-logo
+
+
+0
+0
+0
+footprints
+unqui-logo
+
+
+0
+0
+0
